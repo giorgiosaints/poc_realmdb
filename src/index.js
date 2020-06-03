@@ -5,6 +5,7 @@ import '~/config/ReactotronConfig';
 
 import Routes from '~/routes';
 // TESTE
+// TESTE
 const App = () => (
   <>
     <StatusBar
