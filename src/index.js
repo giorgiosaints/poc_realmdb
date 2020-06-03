@@ -4,7 +4,7 @@ import {StatusBar} from 'react-native';
 import '~/config/ReactotronConfig';
 
 import Routes from '~/routes';
-
+// TESTE
 const App = () => (
   <>
     <StatusBar
